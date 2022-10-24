@@ -86,9 +86,9 @@
 * has_many :items
 
 ## brand table
-|Column            |Type            |Options                    |
-|------------------|----------------|---------------------------|
-|name              |string          |index:true                 |
+|Column            |Type            |Options                   |
+|------------------|----------------|--------------------------|
+|name              |string          |index:true                |
 
 ### Association
 * has_many :items
